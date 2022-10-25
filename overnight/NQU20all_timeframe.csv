@@ -1,0 +1,1761 @@
+,day,prev_close,next_open,1min,3min,5min,15min,30min,60min,ovnt_change
+1,6/15/2020,9647.0,9510.5,"Time      6/15/2020 8:30
+Time.1    6/15/2020 8:30
+Open              9510.5
+High                9533
+Low                 9504
+Close            9532.75
+Change             22.25
+Volume              3644
+Name: 6/15/2020 8:30, dtype: object","Time      6/15/2020 8:30
+Open              9510.5
+High             9537.25
+Low                 9504
+Close             9530.5
+Change                20
+Volume              6341
+Name: 6/15/2020 8:30, dtype: object","Time      6/15/2020 8:30
+Open              9510.5
+High              9540.5
+Low              9486.75
+Close            9488.75
+Change            -21.75
+Volume             11942
+Name: 6/15/2020 8:30, dtype: object","Time      6/15/2020 8:30
+Open              9510.5
+High             9557.75
+Low              9471.25
+Close             9527.5
+Change                17
+Volume             31799
+Name: 6/15/2020 8:30, dtype: object","Time      6/15/2020 8:30
+Open              9510.5
+High                9579
+Low              9471.25
+Close               9578
+Change              67.5
+Volume             49404
+Name: 6/15/2020 8:30, dtype: object","Time      6/15/2020 8:00
+Open             9512.25
+High                9579
+Low              9471.25
+Close               9578
+Change             65.75
+Volume             57610
+Name: 6/15/2020 8:00, dtype: object",-1.4149476521198299
+2,6/16/2020,9765.25,9976.75,"Time      6/16/2020 8:30
+Time.1    6/16/2020 8:30
+Open             9976.75
+High                9984
+Low               9965.5
+Close            9973.25
+Change                -4
+Volume              2958
+Name: 6/16/2020 8:30, dtype: object","Time      6/16/2020 8:30
+Open             9976.75
+High                9984
+Low              9956.25
+Close             9957.5
+Change            -19.25
+Volume              4838
+Name: 6/16/2020 8:30, dtype: object","Time      6/16/2020 8:30
+Open             9976.75
+High                9984
+Low              9950.25
+Close             9953.5
+Change            -23.25
+Volume              9230
+Name: 6/16/2020 8:30, dtype: object","Time      6/16/2020 8:30
+Open             9976.75
+High                9984
+Low               9940.5
+Close               9975
+Change             -1.75
+Volume             28031
+Name: 6/16/2020 8:30, dtype: object","Time      6/16/2020 8:30
+Open             9976.75
+High             9996.75
+Low               9940.5
+Close             9985.5
+Change              8.75
+Volume             51069
+Name: 6/16/2020 8:30, dtype: object","Time      6/16/2020 8:00
+Open                9989
+High             9996.75
+Low               9940.5
+Close             9985.5
+Change              -3.5
+Volume             59577
+Name: 6/16/2020 8:00, dtype: object",2.1658431683776658
+3,6/17/2020,9942.0,10002.75,"Time      6/17/2020 8:30
+Time.1    6/17/2020 8:30
+Open             10002.8
+High             10004.5
+Low              9975.75
+Close            9989.75
+Change             -12.5
+Volume              3172
+Name: 6/17/2020 8:30, dtype: object","Time      6/17/2020 8:30
+Open             10002.8
+High             10004.5
+Low              9975.75
+Close            9993.75
+Change                -9
+Volume              4955
+Name: 6/17/2020 8:30, dtype: object","Time      6/17/2020 8:30
+Open             10002.8
+High               10005
+Low              9975.75
+Close            10003.5
+Change              0.75
+Volume              8594
+Name: 6/17/2020 8:30, dtype: object","Time      6/17/2020 8:30
+Open             10002.8
+High             10013.8
+Low              9975.75
+Close              10003
+Change              0.25
+Volume             25964
+Name: 6/17/2020 8:30, dtype: object","Time      6/17/2020 8:30
+Open             10002.8
+High               10018
+Low                 9963
+Close               9970
+Change            -32.75
+Volume             44342
+Name: 6/17/2020 8:30, dtype: object","Time      6/17/2020 8:00
+Open             10002.5
+High             10019.2
+Low                 9963
+Close               9970
+Change             -32.5
+Volume             51973
+Name: 6/17/2020 8:00, dtype: object",0.6110440555220278
+4,6/18/2020,9969.0,9955.5,"Time      6/18/2020 8:30
+Time.1    6/18/2020 8:30
+Open              9955.5
+High              9967.5
+Low              9950.25
+Close            9955.75
+Change               0.5
+Volume              2911
+Name: 6/18/2020 8:30, dtype: object","Time      6/18/2020 8:30
+Open              9955.5
+High             9978.25
+Low              9950.25
+Close            9976.75
+Change             21.25
+Volume              5581
+Name: 6/18/2020 8:30, dtype: object","Time      6/18/2020 8:30
+Open              9955.5
+High             9978.25
+Low              9950.25
+Close             9969.5
+Change                14
+Volume              9579
+Name: 6/18/2020 8:30, dtype: object","Time      6/18/2020 8:30
+Open              9955.5
+High             9982.25
+Low              9941.75
+Close            9973.75
+Change             18.25
+Volume             27578
+Name: 6/18/2020 8:30, dtype: object","Time      6/18/2020 8:30
+Open              9955.5
+High                9988
+Low              9941.75
+Close            9962.75
+Change              7.25
+Volume             44982
+Name: 6/18/2020 8:30, dtype: object","Time      6/18/2020 8:00
+Open             9972.75
+High                9988
+Low              9941.75
+Close            9962.75
+Change               -10
+Volume             57380
+Name: 6/18/2020 8:00, dtype: object",-0.1354198013842913
+5,6/19/2020,9998.5,10098.25,"Time      6/19/2020 8:30
+Time.1    6/19/2020 8:30
+Open             10098.2
+High               10100
+Low              10080.8
+Close            10084.2
+Change             -14.5
+Volume              6114
+Name: 6/19/2020 8:30, dtype: object","Time      6/19/2020 8:30
+Open             10098.2
+High               10100
+Low              10076.2
+Close            10089.2
+Change                -9
+Volume              8953
+Name: 6/19/2020 8:30, dtype: object","Time      6/19/2020 8:30
+Open             10098.2
+High               10100
+Low              10076.2
+Close            10094.5
+Change             -3.75
+Volume             12887
+Name: 6/19/2020 8:30, dtype: object","Time      6/19/2020 8:30
+Open             10098.2
+High             10101.8
+Low              10075.2
+Close              10094
+Change             -4.25
+Volume             26613
+Name: 6/19/2020 8:30, dtype: object","Time      6/19/2020 8:30
+Open             10098.2
+High             10109.2
+Low              10075.2
+Close              10087
+Change            -11.25
+Volume             42851
+Name: 6/19/2020 8:30, dtype: object","Time      6/19/2020 8:00
+Open             10091.5
+High             10112.5
+Low              10075.2
+Close              10087
+Change              -4.5
+Volume             60539
+Name: 6/19/2020 8:00, dtype: object",0.997649647447117
+6,6/22/2020,9990.5,9991.0,"Time      6/22/2020 8:30
+Time.1    6/22/2020 8:30
+Open                9991
+High               10001
+Low              9986.25
+Close            9997.25
+Change               6.5
+Volume              2987
+Name: 6/22/2020 8:30, dtype: object","Time      6/22/2020 8:30
+Open                9991
+High             10005.5
+Low              9986.25
+Close            9999.75
+Change              8.75
+Volume              4507
+Name: 6/22/2020 8:30, dtype: object","Time      6/22/2020 8:30
+Open                9991
+High             10005.5
+Low              9986.25
+Close             9994.5
+Change               3.5
+Volume              7561
+Name: 6/22/2020 8:30, dtype: object","Time      6/22/2020 8:30
+Open                9991
+High             10005.5
+Low              9975.75
+Close               9992
+Change                 1
+Volume             22125
+Name: 6/22/2020 8:30, dtype: object","Time      6/22/2020 8:30
+Open                9991
+High             10018.5
+Low              9975.75
+Close            10018.2
+Change             27.25
+Volume             39559
+Name: 6/22/2020 8:30, dtype: object","Time      6/22/2020 8:00
+Open                9997
+High             10018.5
+Low              9975.75
+Close            10018.2
+Change             21.25
+Volume             47348
+Name: 6/22/2020 8:00, dtype: object",0.005004754516790951
+7,6/23/2020,10114.75,10181.75,"Time      6/23/2020 8:30
+Time.1    6/23/2020 8:30
+Open             10181.8
+High               10183
+Low              10171.2
+Close              10177
+Change              -4.5
+Volume              3050
+Name: 6/23/2020 8:30, dtype: object","Time      6/23/2020 8:30
+Open             10181.8
+High               10183
+Low              10167.5
+Close            10174.8
+Change                -7
+Volume              4777
+Name: 6/23/2020 8:30, dtype: object","Time      6/23/2020 8:30
+Open             10181.8
+High               10183
+Low                10164
+Close            10166.8
+Change               -15
+Volume              8044
+Name: 6/23/2020 8:30, dtype: object","Time      6/23/2020 8:30
+Open             10181.8
+High             10199.5
+Low              10158.8
+Close              10191
+Change              9.25
+Volume             22549
+Name: 6/23/2020 8:30, dtype: object","Time      6/23/2020 8:30
+Open             10181.8
+High             10200.8
+Low              10158.8
+Close            10182.5
+Change              0.75
+Volume             38809
+Name: 6/23/2020 8:30, dtype: object","Time      6/23/2020 8:00
+Open               10193
+High             10200.8
+Low              10158.8
+Close            10182.5
+Change             -10.5
+Volume             47012
+Name: 6/23/2020 8:00, dtype: object",0.662398971798611
+8,6/24/2020,10197.5,10167.25,"Time      6/24/2020 8:30
+Time.1    6/24/2020 8:30
+Open             10167.2
+High             10177.2
+Low                10162
+Close            10174.8
+Change              7.25
+Volume              3115
+Name: 6/24/2020 8:30, dtype: object","Time      6/24/2020 8:30
+Open             10167.2
+High             10183.8
+Low                10162
+Close            10182.5
+Change             15.25
+Volume              5002
+Name: 6/24/2020 8:30, dtype: object","Time      6/24/2020 8:30
+Open             10167.2
+High             10189.8
+Low                10162
+Close            10185.8
+Change              18.5
+Volume              9725
+Name: 6/24/2020 8:30, dtype: object","Time      6/24/2020 8:30
+Open             10167.2
+High             10221.5
+Low                10162
+Close            10210.5
+Change             43.25
+Volume             25806
+Name: 6/24/2020 8:30, dtype: object","Time      6/24/2020 8:30
+Open             10167.2
+High             10221.5
+Low                10088
+Close            10103.8
+Change             -63.5
+Volume             58149
+Name: 6/24/2020 8:30, dtype: object","Time      6/24/2020 8:00
+Open             10181.5
+High             10221.5
+Low                10088
+Close            10103.8
+Change            -77.75
+Volume             70313
+Name: 6/24/2020 8:00, dtype: object",-0.29664133366021084
+9,6/25/2020,9992.75,9997.0,"Time      6/25/2020 8:30
+Time.1    6/25/2020 8:30
+Open                9997
+High             10008.8
+Low              9989.75
+Close            10005.8
+Change                 9
+Volume              2433
+Name: 6/25/2020 8:30, dtype: object","Time      6/25/2020 8:30
+Open                9997
+High             10014.5
+Low              9989.75
+Close            10011.8
+Change             14.75
+Volume              4649
+Name: 6/25/2020 8:30, dtype: object","Time      6/25/2020 8:30
+Open                9997
+High             10017.2
+Low              9985.75
+Close            9994.25
+Change             -2.75
+Volume              9585
+Name: 6/25/2020 8:30, dtype: object","Time      6/25/2020 8:30
+Open                9997
+High             10017.2
+Low              9912.75
+Close             9924.5
+Change             -72.5
+Volume             33370
+Name: 6/25/2020 8:30, dtype: object","Time      6/25/2020 8:30
+Open                9997
+High             10017.2
+Low               9885.5
+Close             9927.5
+Change             -69.5
+Volume             64140
+Name: 6/25/2020 8:30, dtype: object","Time      6/25/2020 8:00
+Open              9993.5
+High             10017.2
+Low               9885.5
+Close             9927.5
+Change               -66
+Volume             72110
+Name: 6/25/2020 8:00, dtype: object",0.04253083485527007
+10,6/26/2020,10087.0,10072.75,"Time      6/26/2020 8:30
+Time.1    6/26/2020 8:30
+Open             10072.8
+High               10082
+Low                10064
+Close            10079.8
+Change                 7
+Volume              3512
+Name: 6/26/2020 8:30, dtype: object","Time      6/26/2020 8:30
+Open             10072.8
+High             10082.2
+Low              10060.2
+Close            10063.2
+Change              -9.5
+Volume              5476
+Name: 6/26/2020 8:30, dtype: object","Time      6/26/2020 8:30
+Open             10072.8
+High             10082.2
+Low              10043.2
+Close            10067.8
+Change                -5
+Volume             10643
+Name: 6/26/2020 8:30, dtype: object","Time      6/26/2020 8:30
+Open             10072.8
+High             10082.2
+Low              10010.8
+Close            10023.2
+Change             -49.5
+Volume             28979
+Name: 6/26/2020 8:30, dtype: object","Time      6/26/2020 8:30
+Open             10072.8
+High             10082.2
+Low              9995.25
+Close            10015.8
+Change               -57
+Volume             53501
+Name: 6/26/2020 8:30, dtype: object","Time      6/26/2020 8:00
+Open             10073.8
+High             10082.2
+Low              9995.25
+Close            10015.8
+Change               -58
+Volume             57994
+Name: 6/26/2020 8:00, dtype: object",-0.14127094279766036
+11,6/29/2020,9841.25,9836.5,"Time      6/29/2020 8:30
+Time.1    6/29/2020 8:30
+Open              9836.5
+High                9850
+Low              9835.25
+Close            9839.25
+Change              2.75
+Volume              4458
+Name: 6/29/2020 8:30, dtype: object","Time      6/29/2020 8:30
+Open              9836.5
+High                9850
+Low                 9818
+Close               9819
+Change             -17.5
+Volume              8964
+Name: 6/29/2020 8:30, dtype: object","Time      6/29/2020 8:30
+Open              9836.5
+High                9850
+Low               9808.5
+Close               9823
+Change             -13.5
+Volume             14366
+Name: 6/29/2020 8:30, dtype: object","Time      6/29/2020 8:30
+Open              9836.5
+High                9850
+Low                 9744
+Close            9753.75
+Change            -82.75
+Volume             39905
+Name: 6/29/2020 8:30, dtype: object","Time      6/29/2020 8:30
+Open              9836.5
+High                9850
+Low              9728.75
+Close             9780.5
+Change               -56
+Volume             70754
+Name: 6/29/2020 8:30, dtype: object","Time      6/29/2020 8:00
+Open             9847.25
+High                9852
+Low              9728.75
+Close             9780.5
+Change            -66.75
+Volume             80715
+Name: 6/29/2020 8:00, dtype: object",-0.04826622634319827
+12,6/30/2020,9950.75,9949.5,"Time      6/30/2020 8:30
+Time.1    6/30/2020 8:30
+Open              9949.5
+High              9960.5
+Low              9948.75
+Close               9954
+Change              4.75
+Volume              3360
+Name: 6/30/2020 8:30, dtype: object","Time      6/30/2020 8:30
+Open              9949.5
+High              9960.5
+Low              9943.25
+Close            9957.25
+Change              7.75
+Volume              6036
+Name: 6/30/2020 8:30, dtype: object","Time      6/30/2020 8:30
+Open              9949.5
+High             9983.75
+Low              9943.25
+Close            9974.75
+Change             25.25
+Volume             11961
+Name: 6/30/2020 8:30, dtype: object","Time      6/30/2020 8:30
+Open              9949.5
+High               10009
+Low              9943.25
+Close            10005.8
+Change             56.25
+Volume             29387
+Name: 6/30/2020 8:30, dtype: object","Time      6/30/2020 8:30
+Open              9949.5
+High             10035.5
+Low              9943.25
+Close            10023.5
+Change                74
+Volume             52363
+Name: 6/30/2020 8:30, dtype: object","Time      6/30/2020 8:00
+Open                9951
+High             10035.5
+Low               9940.5
+Close            10023.5
+Change              72.5
+Volume             60863
+Name: 6/30/2020 8:00, dtype: object",-0.012561867195940005
+13,7/10/2020,10133.5,10734.0,"Time      7/10/2020 8:30
+Time.1    7/10/2020 8:30
+Open               10734
+High             10746.5
+Low                10730
+Close            10737.8
+Change              3.25
+Volume              3387
+Name: 7/10/2020 8:30, dtype: object","Time      7/10/2020 8:30
+Open               10734
+High             10747.5
+Low                10730
+Close            10746.5
+Change              12.5
+Volume              5944
+Name: 7/10/2020 8:30, dtype: object","Time      7/10/2020 8:30
+Open               10734
+High             10749.5
+Low              10711.2
+Close            10715.5
+Change             -18.5
+Volume             12448
+Name: 7/10/2020 8:30, dtype: object","Time      7/10/2020 8:30
+Open               10734
+High             10749.5
+Low                10657
+Close            10691.8
+Change            -42.25
+Volume             45147
+Name: 7/10/2020 8:30, dtype: object","Time      7/10/2020 8:30
+Open               10734
+High             10749.5
+Low                10657
+Close            10676.5
+Change             -57.5
+Volume             74483
+Name: 7/10/2020 8:30, dtype: object","Time      7/10/2020 8:00
+Open             10722.5
+High             10750.5
+Low                10657
+Close            10676.5
+Change               -46
+Volume             87932
+Name: 7/10/2020 8:00, dtype: object",5.925889376819461
+14,7/13/2020,10820.75,10937.75,"Time      7/13/2020 8:30
+Time.1    7/13/2020 8:30
+Open             10937.8
+High             10942.8
+Low              10929.5
+Close            10938.5
+Change              0.75
+Volume              3710
+Name: 7/13/2020 8:30, dtype: object","Time      7/13/2020 8:30
+Open             10937.8
+High               10946
+Low              10929.5
+Close            10939.2
+Change               1.5
+Volume              6033
+Name: 7/13/2020 8:30, dtype: object","Time      7/13/2020 8:30
+Open             10937.8
+High               10965
+Low              10929.5
+Close            10952.5
+Change             14.75
+Volume             12470
+Name: 7/13/2020 8:30, dtype: object","Time      7/13/2020 8:30
+Open             10937.8
+High               10997
+Low              10929.5
+Close              10988
+Change             50.25
+Volume             35719
+Name: 7/13/2020 8:30, dtype: object","Time      7/13/2020 8:30
+Open             10937.8
+High               10997
+Low              10929.5
+Close            10982.2
+Change              44.5
+Volume             56576
+Name: 7/13/2020 8:30, dtype: object","Time      7/13/2020 8:00
+Open             10936.2
+High               10997
+Low              10929.5
+Close            10982.2
+Change                46
+Volume             65545
+Name: 7/13/2020 8:00, dtype: object",1.081255920338239
+15,7/14/2020,10598.5,10492.75,"Time      7/14/2020 8:30
+Time.1    7/14/2020 8:30
+Open             10492.8
+High             10507.8
+Low                10484
+Close            10497.5
+Change                 4
+Volume              5032
+Name: 7/14/2020 8:30, dtype: object","Time      7/14/2020 8:30
+Open             10492.8
+High               10510
+Low              10480.5
+Close              10508
+Change             15.25
+Volume              9487
+Name: 7/14/2020 8:30, dtype: object","Time      7/14/2020 8:30
+Open             10492.8
+High             10578.5
+Low              10480.5
+Close              10571
+Change             78.25
+Volume             22501
+Name: 7/14/2020 8:30, dtype: object","Time      7/14/2020 8:30
+Open             10492.8
+High             10629.2
+Low              10480.5
+Close            10616.8
+Change               124
+Volume             60141
+Name: 7/14/2020 8:30, dtype: object","Time      7/14/2020 8:30
+Open             10492.8
+High             10629.2
+Low              10386.8
+Close            10473.8
+Change               -19
+Volume            124287
+Name: 7/14/2020 8:30, dtype: object","Time      7/14/2020 8:00
+Open             10509.8
+High             10629.2
+Low              10386.8
+Close            10473.8
+Change               -36
+Volume            153637
+Name: 7/14/2020 8:00, dtype: object",-0.9977827050997782
+16,7/15/2020,10673.0,10724.75,"Time      7/15/2020 8:30
+Time.1    7/15/2020 8:30
+Open             10724.8
+High               10737
+Low              10716.8
+Close            10726.2
+Change               1.5
+Volume              5061
+Name: 7/15/2020 8:30, dtype: object","Time      7/15/2020 8:30
+Open             10724.8
+High               10737
+Low              10708.5
+Close              10712
+Change            -12.75
+Volume              8807
+Name: 7/15/2020 8:30, dtype: object","Time      7/15/2020 8:30
+Open             10724.8
+High               10738
+Low                10693
+Close              10729
+Change              4.25
+Volume             16997
+Name: 7/15/2020 8:30, dtype: object","Time      7/15/2020 8:30
+Open             10724.8
+High             10749.8
+Low              10677.2
+Close              10749
+Change             24.25
+Volume             50986
+Name: 7/15/2020 8:30, dtype: object","Time      7/15/2020 8:30
+Open             10724.8
+High             10766.5
+Low              10677.2
+Close            10689.5
+Change            -35.25
+Volume             85520
+Name: 7/15/2020 8:30, dtype: object","Time      7/15/2020 8:00
+Open             10723.5
+High             10766.5
+Low              10677.2
+Close            10689.5
+Change               -34
+Volume            100907
+Name: 7/15/2020 8:00, dtype: object",0.4848683594115994
+17,7/16/2020,10687.75,10571.25,"Time      7/16/2020 8:30
+Time.1    7/16/2020 8:30
+Open             10571.2
+High               10598
+Low              10568.2
+Close            10597.5
+Change                27
+Volume              4796
+Name: 7/16/2020 8:30, dtype: object","Time      7/16/2020 8:30
+Open             10571.2
+High               10599
+Low              10568.2
+Close            10588.5
+Change             17.25
+Volume              7563
+Name: 7/16/2020 8:30, dtype: object","Time      7/16/2020 8:30
+Open             10571.2
+High               10599
+Low                10558
+Close            10567.2
+Change                -4
+Volume             13576
+Name: 7/16/2020 8:30, dtype: object","Time      7/16/2020 8:30
+Open             10571.2
+High             10599.8
+Low              10537.5
+Close            10567.5
+Change             -3.75
+Volume             40876
+Name: 7/16/2020 8:30, dtype: object","Time      7/16/2020 8:30
+Open             10571.2
+High             10599.8
+Low              10537.5
+Close            10556.8
+Change             -14.5
+Volume             70637
+Name: 7/16/2020 8:30, dtype: object","Time      7/16/2020 8:00
+Open             10556.2
+High             10599.8
+Low              10537.5
+Close            10556.8
+Change               0.5
+Volume             83289
+Name: 7/16/2020 8:00, dtype: object",-1.090032981684639
+18,7/17/2020,10613.0,10643.0,"Time      7/17/2020 8:30
+Time.1    7/17/2020 8:30
+Open               10643
+High             10644.8
+Low              10628.2
+Close            10636.5
+Change                -7
+Volume              3702
+Name: 7/17/2020 8:30, dtype: object","Time      7/17/2020 8:30
+Open               10643
+High             10644.8
+Low              10628.2
+Close              10640
+Change                -3
+Volume              5192
+Name: 7/17/2020 8:30, dtype: object","Time      7/17/2020 8:30
+Open               10643
+High               10650
+Low              10628.2
+Close            10631.5
+Change             -11.5
+Volume              8788
+Name: 7/17/2020 8:30, dtype: object","Time      7/17/2020 8:30
+Open               10643
+High               10650
+Low                10601
+Close            10601.5
+Change             -41.5
+Volume             27022
+Name: 7/17/2020 8:30, dtype: object","Time      7/17/2020 8:30
+Open               10643
+High               10650
+Low              10567.2
+Close              10607
+Change               -36
+Volume             55634
+Name: 7/17/2020 8:30, dtype: object","Time      7/17/2020 8:00
+Open             10618.8
+High             10658.2
+Low              10567.2
+Close              10607
+Change            -11.75
+Volume             71521
+Name: 7/17/2020 8:00, dtype: object",0.2826721944784698
+19,7/20/2020,10630.25,10659.25,"Time      7/20/2020 8:30
+Time.1    7/20/2020 8:30
+Open             10659.2
+High               10669
+Low              10654.2
+Close            10662.5
+Change                 3
+Volume              3602
+Name: 7/20/2020 8:30, dtype: object","Time      7/20/2020 8:30
+Open             10659.2
+High             10684.8
+Low              10654.2
+Close            10674.8
+Change              15.5
+Volume              6299
+Name: 7/20/2020 8:30, dtype: object","Time      7/20/2020 8:30
+Open             10659.2
+High             10684.8
+Low              10653.8
+Close              10664
+Change              4.75
+Volume             11082
+Name: 7/20/2020 8:30, dtype: object","Time      7/20/2020 8:30
+Open             10659.2
+High             10684.8
+Low              10605.8
+Close            10621.5
+Change            -37.75
+Volume             38605
+Name: 7/20/2020 8:30, dtype: object","Time      7/20/2020 8:30
+Open             10659.2
+High               10695
+Low              10605.8
+Close            10681.2
+Change                22
+Volume             67825
+Name: 7/20/2020 8:30, dtype: object","Time      7/20/2020 8:00
+Open             10666.8
+High               10695
+Low              10605.8
+Close            10681.2
+Change              14.5
+Volume             75224
+Name: 7/20/2020 8:00, dtype: object",0.2728063780249759
+20,7/21/2020,10936.5,11001.5,"Time      7/21/2020 8:30
+Time.1    7/21/2020 8:30
+Open             11001.5
+High             11002.8
+Low                10986
+Close            10986.8
+Change               -15
+Volume              2771
+Name: 7/21/2020 8:30, dtype: object","Time      7/21/2020 8:30
+Open             11001.5
+High             11002.8
+Low                10964
+Close            10967.8
+Change            -33.75
+Volume              6504
+Name: 7/21/2020 8:30, dtype: object","Time      7/21/2020 8:30
+Open             11001.5
+High             11002.8
+Low                10964
+Close            10980.2
+Change            -21.25
+Volume             12330
+Name: 7/21/2020 8:30, dtype: object","Time      7/21/2020 8:30
+Open             11001.5
+High             11002.8
+Low              10905.8
+Close              10931
+Change             -70.5
+Volume             49038
+Name: 7/21/2020 8:30, dtype: object","Time      7/21/2020 8:30
+Open             11001.5
+High             11002.8
+Low              10905.8
+Close            10949.5
+Change               -52
+Volume             77702
+Name: 7/21/2020 8:30, dtype: object","Time      7/21/2020 8:00
+Open               11019
+High             11019.5
+Low              10905.8
+Close            10949.5
+Change             -69.5
+Volume             92513
+Name: 7/21/2020 8:00, dtype: object",0.5943400539477895
+21,7/22/2020,10821.25,10838.0,"Time      7/22/2020 8:30
+Time.1    7/22/2020 8:30
+Open               10838
+High             10846.2
+Low              10821.5
+Close            10829.8
+Change                -8
+Volume              4055
+Name: 7/22/2020 8:30, dtype: object","Time      7/22/2020 8:30
+Open               10838
+High             10849.5
+Low              10821.5
+Close              10847
+Change                 9
+Volume              6346
+Name: 7/22/2020 8:30, dtype: object","Time      7/22/2020 8:30
+Open               10838
+High             10874.5
+Low              10821.5
+Close              10871
+Change                33
+Volume             12152
+Name: 7/22/2020 8:30, dtype: object","Time      7/22/2020 8:30
+Open               10838
+High             10874.5
+Low              10821.5
+Close              10841
+Change                 3
+Volume             33576
+Name: 7/22/2020 8:30, dtype: object","Time      7/22/2020 8:30
+Open               10838
+High             10895.8
+Low              10821.5
+Close              10881
+Change                43
+Volume             56654
+Name: 7/22/2020 8:30, dtype: object","Time      7/22/2020 8:00
+Open               10866
+High             10895.8
+Low              10821.5
+Close              10881
+Change                15
+Volume             67593
+Name: 7/22/2020 8:00, dtype: object",0.15478803280582187
+22,7/23/2020,10859.75,10842.5,"Time      7/23/2020 8:30
+Time.1    7/23/2020 8:30
+Open             10842.5
+High             10844.5
+Low                10821
+Close            10826.2
+Change             -15.5
+Volume              3825
+Name: 7/23/2020 8:30, dtype: object","Time      7/23/2020 8:30
+Open             10842.5
+High             10844.5
+Low                10821
+Close            10832.2
+Change            -10.25
+Volume              5615
+Name: 7/23/2020 8:30, dtype: object","Time      7/23/2020 8:30
+Open             10842.5
+High             10844.5
+Low              10810.2
+Close            10812.8
+Change            -29.75
+Volume             11241
+Name: 7/23/2020 8:30, dtype: object","Time      7/23/2020 8:30
+Open             10842.5
+High             10845.5
+Low                10799
+Close            10835.2
+Change             -7.25
+Volume             31372
+Name: 7/23/2020 8:30, dtype: object","Time      7/23/2020 8:30
+Open             10842.5
+High             10871.8
+Low                10799
+Close            10844.2
+Change              1.75
+Volume             51870
+Name: 7/23/2020 8:30, dtype: object","Time      7/23/2020 8:00
+Open             10844.2
+High             10871.8
+Low                10799
+Close            10844.2
+Change                 0
+Volume             58740
+Name: 7/23/2020 8:00, dtype: object",-0.158843435622367
+23,7/24/2020,10572.0,10415.5,"Time      7/24/2020 8:30
+Time.1    7/24/2020 8:30
+Open             10415.5
+High             10416.8
+Low                10380
+Close            10388.2
+Change               -27
+Volume              5638
+Name: 7/24/2020 8:30, dtype: object","Time      7/24/2020 8:30
+Open             10415.5
+High             10416.8
+Low                10380
+Close            10404.5
+Change               -11
+Volume              8622
+Name: 7/24/2020 8:30, dtype: object","Time      7/24/2020 8:30
+Open             10415.5
+High             10423.5
+Low                10380
+Close            10420.8
+Change              5.25
+Volume             14054
+Name: 7/24/2020 8:30, dtype: object","Time      7/24/2020 8:30
+Open             10415.5
+High             10432.2
+Low                10301
+Close            10352.8
+Change            -62.75
+Volume             52420
+Name: 7/24/2020 8:30, dtype: object","Time      7/24/2020 8:30
+Open             10415.5
+High             10432.2
+Low                10301
+Close              10383
+Change             -32.5
+Volume             85797
+Name: 7/24/2020 8:30, dtype: object","Time      7/24/2020 8:00
+Open             10445.2
+High             10454.5
+Low                10301
+Close              10383
+Change            -62.25
+Volume            101779
+Name: 7/24/2020 8:00, dtype: object",-1.4803253878168747
+24,7/27/2020,10469.75,10546.75,"Time      7/27/2020 8:30
+Time.1    7/27/2020 8:30
+Open             10546.8
+High             10549.2
+Low              10533.8
+Close            10546.2
+Change              -0.5
+Volume              3367
+Name: 7/27/2020 8:30, dtype: object","Time      7/27/2020 8:30
+Open             10546.8
+High             10549.2
+Low                10523
+Close              10526
+Change            -20.75
+Volume              5907
+Name: 7/27/2020 8:30, dtype: object","Time      7/27/2020 8:30
+Open             10546.8
+High             10549.2
+Low              10513.8
+Close            10546.5
+Change             -0.25
+Volume             10823
+Name: 7/27/2020 8:30, dtype: object","Time      7/27/2020 8:30
+Open             10546.8
+High             10610.8
+Low              10513.8
+Close            10602.2
+Change              55.5
+Volume             36443
+Name: 7/27/2020 8:30, dtype: object","Time      7/27/2020 8:30
+Open             10546.8
+High             10629.5
+Low              10513.8
+Close            10613.8
+Change                67
+Volume             60205
+Name: 7/27/2020 8:30, dtype: object","Time      7/27/2020 8:00
+Open             10548.8
+High             10629.5
+Low              10513.8
+Close            10613.8
+Change                65
+Volume             66694
+Name: 7/27/2020 8:00, dtype: object",0.7354521359153753
+25,7/28/2020,10660.5,10631.0,"Time      7/28/2020 8:30
+Time.1    7/28/2020 8:30
+Open               10631
+High             10646.8
+Low              10627.2
+Close            10632.2
+Change                 1
+Volume              3398
+Name: 7/28/2020 8:30, dtype: object","Time      7/28/2020 8:30
+Open               10631
+High             10646.8
+Low              10607.8
+Close            10610.8
+Change            -20.25
+Volume              6343
+Name: 7/28/2020 8:30, dtype: object","Time      7/28/2020 8:30
+Open               10631
+High             10646.8
+Low                10593
+Close            10601.8
+Change            -29.25
+Volume             13483
+Name: 7/28/2020 8:30, dtype: object","Time      7/28/2020 8:30
+Open               10631
+High             10646.8
+Low                10579
+Close            10609.8
+Change            -21.25
+Volume             35084
+Name: 7/28/2020 8:30, dtype: object","Time      7/28/2020 8:30
+Open               10631
+High             10646.8
+Low              10557.2
+Close            10585.5
+Change             -45.5
+Volume             60839
+Name: 7/28/2020 8:30, dtype: object","Time      7/28/2020 8:00
+Open             10643.5
+High             10646.8
+Low              10557.2
+Close            10585.5
+Change               -58
+Volume             68443
+Name: 7/28/2020 8:00, dtype: object",-0.2767224801838563
+26,7/29/2020,10525.25,10588.75,"Time      7/29/2020 8:30
+Time.1    7/29/2020 8:30
+Open             10588.8
+High             10593.8
+Low                10583
+Close            10587.2
+Change                -2
+Volume              2329
+Name: 7/29/2020 8:30, dtype: object","Time      7/29/2020 8:30
+Open             10588.8
+High             10602.2
+Low              10576.8
+Close            10600.5
+Change             11.75
+Volume              4626
+Name: 7/29/2020 8:30, dtype: object","Time      7/29/2020 8:30
+Open             10588.8
+High             10602.2
+Low              10576.8
+Close              10600
+Change             11.25
+Volume              8007
+Name: 7/29/2020 8:30, dtype: object","Time      7/29/2020 8:30
+Open             10588.8
+High             10611.5
+Low              10576.8
+Close            10592.5
+Change              3.75
+Volume             23575
+Name: 7/29/2020 8:30, dtype: object","Time      7/29/2020 8:30
+Open             10588.8
+High             10611.5
+Low                10571
+Close            10601.5
+Change             12.75
+Volume             41095
+Name: 7/29/2020 8:30, dtype: object","Time      7/29/2020 8:00
+Open             10597.8
+High             10611.5
+Low                10571
+Close            10601.5
+Change              3.75
+Volume             47562
+Name: 7/29/2020 8:00, dtype: object",0.6033110852473813
+27,7/30/2020,10650.25,10566.5,"Time      7/30/2020 8:30
+Time.1    7/30/2020 8:30
+Open             10566.5
+High               10575
+Low              10551.5
+Close            10570.5
+Change               3.5
+Volume              3457
+Name: 7/30/2020 8:30, dtype: object","Time      7/30/2020 8:30
+Open             10566.5
+High               10584
+Low              10551.5
+Close            10574.2
+Change              7.75
+Volume              5836
+Name: 7/30/2020 8:30, dtype: object","Time      7/30/2020 8:30
+Open             10566.5
+High             10607.8
+Low              10551.5
+Close            10606.2
+Change             39.75
+Volume             11469
+Name: 7/30/2020 8:30, dtype: object","Time      7/30/2020 8:30
+Open             10566.5
+High             10617.5
+Low              10551.5
+Close            10595.8
+Change             29.25
+Volume             29504
+Name: 7/30/2020 8:30, dtype: object","Time      7/30/2020 8:30
+Open             10566.5
+High             10621.2
+Low              10532.5
+Close            10541.2
+Change            -25.25
+Volume             54673
+Name: 7/30/2020 8:30, dtype: object","Time      7/30/2020 8:00
+Open             10540.8
+High             10621.2
+Low              10520.5
+Close            10541.2
+Change               0.5
+Volume             67064
+Name: 7/30/2020 8:00, dtype: object",-0.7863665172179056
+28,7/31/2020,10705.0,10895.75,"Time      7/31/2020 8:30
+Time.1    7/31/2020 8:30
+Open             10895.8
+High             10901.8
+Low                10860
+Close              10864
+Change            -31.25
+Volume              6082
+Name: 7/31/2020 8:30, dtype: object","Time      7/31/2020 8:30
+Open             10895.8
+High             10901.8
+Low              10851.8
+Close            10854.8
+Change               -41
+Volume              9136
+Name: 7/31/2020 8:30, dtype: object","Time      7/31/2020 8:30
+Open             10895.8
+High             10901.8
+Low              10827.5
+Close            10842.5
+Change            -53.25
+Volume             17542
+Name: 7/31/2020 8:30, dtype: object","Time      7/31/2020 8:30
+Open             10895.8
+High             10901.8
+Low                10780
+Close              10811
+Change            -84.75
+Volume             46603
+Name: 7/31/2020 8:30, dtype: object","Time      7/31/2020 8:30
+Open             10895.8
+High             10901.8
+Low                10780
+Close            10819.5
+Change            -76.25
+Volume             77474
+Name: 7/31/2020 8:30, dtype: object","Time      7/31/2020 8:00
+Open             10903.8
+High             10909.2
+Low                10780
+Close            10819.5
+Change            -84.25
+Volume             87203
+Name: 7/31/2020 8:00, dtype: object",1.7818776272769736
+29,8/10/2020,10897.75,11137.75,"Time      8/10/2020 8:30
+Time.1    8/10/2020 8:30
+Open             11137.8
+High               11144
+Low              11133.8
+Close            11134.5
+Change             -3.25
+Volume              2878
+Name: 8/10/2020 8:30, dtype: object","Time      8/10/2020 8:30
+Open             11137.8
+High               11144
+Low              11133.2
+Close            11135.8
+Change                -2
+Volume              4708
+Name: 8/10/2020 8:30, dtype: object","Time      8/10/2020 8:30
+Open             11137.8
+High               11144
+Low              11118.5
+Close            11120.2
+Change             -17.5
+Volume              9708
+Name: 8/10/2020 8:30, dtype: object","Time      8/10/2020 8:30
+Open             11137.8
+High             11146.8
+Low              11116.2
+Close            11143.2
+Change               5.5
+Volume             30073
+Name: 8/10/2020 8:30, dtype: object","Time      8/10/2020 8:30
+Open             11137.8
+High             11146.8
+Low                11065
+Close              11074
+Change            -63.75
+Volume             55490
+Name: 8/10/2020 8:30, dtype: object","Time      8/10/2020 8:00
+Open               11134
+High             11146.8
+Low                11065
+Close              11074
+Change               -60
+Volume             60682
+Name: 8/10/2020 8:00, dtype: object",2.2022894634213483
+30,8/11/2020,11078.25,11027.25,"Time      8/11/2020 8:30
+Time.1    8/11/2020 8:30
+Open             11027.2
+High               11030
+Low              11015.2
+Close            11026.8
+Change              -0.5
+Volume              3077
+Name: 8/11/2020 8:30, dtype: object","Time      8/11/2020 8:30
+Open             11027.2
+High               11030
+Low              11002.5
+Close            11002.5
+Change            -24.75
+Volume              6561
+Name: 8/11/2020 8:30, dtype: object","Time      8/11/2020 8:30
+Open             11027.2
+High               11030
+Low              10980.5
+Close            10984.2
+Change               -43
+Volume             12271
+Name: 8/11/2020 8:30, dtype: object","Time      8/11/2020 8:30
+Open             11027.2
+High               11030
+Low                10956
+Close            11003.5
+Change            -23.75
+Volume             40876
+Name: 8/11/2020 8:30, dtype: object","Time      8/11/2020 8:30
+Open             11027.2
+High             11042.2
+Low                10956
+Close              11015
+Change            -12.25
+Volume             70221
+Name: 8/11/2020 8:30, dtype: object","Time      8/11/2020 8:00
+Open             11021.5
+High             11042.2
+Low                10956
+Close              11015
+Change              -6.5
+Volume             80016
+Name: 8/11/2020 8:00, dtype: object",-0.4603615191930133
+31,8/12/2020,10869.0,10958.25,"Time      8/12/2020 8:30
+Time.1    8/12/2020 8:30
+Open             10958.2
+High             10968.5
+Low              10957.5
+Close              10968
+Change                10
+Volume              2692
+Name: 8/12/2020 8:30, dtype: object","Time      8/12/2020 8:30
+Open             10958.2
+High               10984
+Low              10957.5
+Close            10983.5
+Change             25.25
+Volume              5849
+Name: 8/12/2020 8:30, dtype: object","Time      8/12/2020 8:30
+Open             10958.2
+High             11005.5
+Low              10957.5
+Close            10988.5
+Change             30.25
+Volume             13232
+Name: 8/12/2020 8:30, dtype: object","Time      8/12/2020 8:30
+Open             10958.2
+High             11005.8
+Low              10957.5
+Close            10989.2
+Change                31
+Volume             31905
+Name: 8/12/2020 8:30, dtype: object","Time      8/12/2020 8:30
+Open             10958.2
+High             11058.5
+Low              10957.5
+Close              11058
+Change             99.75
+Volume             62486
+Name: 8/12/2020 8:30, dtype: object","Time      8/12/2020 8:00
+Open             10947.8
+High             11058.5
+Low              10934.5
+Close              11058
+Change            110.25
+Volume             70580
+Name: 8/12/2020 8:00, dtype: object",0.8211426994203699
+32,8/13/2020,11146.0,11173.5,"Time      8/13/2020 8:30
+Time.1    8/13/2020 8:30
+Open             11173.5
+High             11181.5
+Low              11164.5
+Close            11168.8
+Change              -4.5
+Volume              3040
+Name: 8/13/2020 8:30, dtype: object","Time      8/13/2020 8:30
+Open             11173.5
+High             11204.8
+Low              11164.5
+Close            11197.5
+Change                24
+Volume              6751
+Name: 8/13/2020 8:30, dtype: object","Time      8/13/2020 8:30
+Open             11173.5
+High             11204.8
+Low              11164.5
+Close            11194.5
+Change                21
+Volume             12230
+Name: 8/13/2020 8:30, dtype: object","Time      8/13/2020 8:30
+Open             11173.5
+High             11229.5
+Low              11164.5
+Close            11213.8
+Change             40.25
+Volume             34222
+Name: 8/13/2020 8:30, dtype: object","Time      8/13/2020 8:30
+Open             11173.5
+High             11229.5
+Low              11164.5
+Close            11208.8
+Change             35.25
+Volume             57139
+Name: 8/13/2020 8:30, dtype: object","Time      8/13/2020 8:00
+Open             11190.8
+High             11229.5
+Low              11164.5
+Close            11208.8
+Change                18
+Volume             65866
+Name: 8/13/2020 8:00, dtype: object",0.24672528261259646
+33,8/14/2020,11170.0,11191.0,"Time      8/14/2020 8:30
+Time.1    8/14/2020 8:30
+Open               11191
+High               11194
+Low              11177.2
+Close            11191.2
+Change               0.5
+Volume              2660
+Name: 8/14/2020 8:30, dtype: object","Time      8/14/2020 8:30
+Open               11191
+High               11200
+Low                11171
+Close              11175
+Change               -16
+Volume              5419
+Name: 8/14/2020 8:30, dtype: object","Time      8/14/2020 8:30
+Open               11191
+High               11200
+Low                11171
+Close              11181
+Change               -10
+Volume              9869
+Name: 8/14/2020 8:30, dtype: object","Time      8/14/2020 8:30
+Open               11191
+High             11206.8
+Low              11157.5
+Close            11193.2
+Change              2.25
+Volume             27428
+Name: 8/14/2020 8:30, dtype: object","Time      8/14/2020 8:30
+Open               11191
+High             11206.8
+Low              11135.5
+Close            11181.8
+Change             -9.25
+Volume             52048
+Name: 8/14/2020 8:30, dtype: object","Time      8/14/2020 8:00
+Open             11196.2
+High             11206.8
+Low              11135.5
+Close            11181.8
+Change             -14.5
+Volume             57733
+Name: 8/14/2020 8:00, dtype: object",0.18800358102059087
+34,8/17/2020,11159.75,11228.75,"Time      8/17/2020 8:30
+Time.1    8/17/2020 8:30
+Open             11228.8
+High               11231
+Low              11221.5
+Close            11224.8
+Change                -4
+Volume              2143
+Name: 8/17/2020 8:30, dtype: object","Time      8/17/2020 8:30
+Open             11228.8
+High             11236.8
+Low              11221.5
+Close            11232.5
+Change              3.75
+Volume              3660
+Name: 8/17/2020 8:30, dtype: object","Time      8/17/2020 8:30
+Open             11228.8
+High               11245
+Low              11221.5
+Close            11236.2
+Change               7.5
+Volume              7674
+Name: 8/17/2020 8:30, dtype: object","Time      8/17/2020 8:30
+Open             11228.8
+High             11252.2
+Low              11221.5
+Close              11244
+Change             15.25
+Volume             20541
+Name: 8/17/2020 8:30, dtype: object","Time      8/17/2020 8:30
+Open             11228.8
+High             11264.8
+Low              11221.5
+Close            11264.2
+Change              35.5
+Volume             32280
+Name: 8/17/2020 8:30, dtype: object","Time      8/17/2020 8:00
+Open               11227
+High             11264.8
+Low              11221.5
+Close            11264.2
+Change             37.25
+Volume             37200
+Name: 8/17/2020 8:00, dtype: object",0.6182934205515357
+35,8/18/2020,11284.25,11330.0,"Time      8/18/2020 8:30
+Time.1    8/18/2020 8:30
+Open               11330
+High             11335.5
+Low              11325.8
+Close              11335
+Change              5.25
+Volume              2279
+Name: 8/18/2020 8:30, dtype: object","Time      8/18/2020 8:30
+Open               11330
+High             11342.2
+Low              11325.8
+Close            11341.5
+Change              11.5
+Volume              3845
+Name: 8/18/2020 8:30, dtype: object","Time      8/18/2020 8:30
+Open               11330
+High               11349
+Low              11325.8
+Close            11340.8
+Change             10.75
+Volume              7995
+Name: 8/18/2020 8:30, dtype: object","Time      8/18/2020 8:30
+Open               11330
+High               11382
+Low              11325.8
+Close              11371
+Change                41
+Volume             28230
+Name: 8/18/2020 8:30, dtype: object","Time      8/18/2020 8:30
+Open               11330
+High               11382
+Low              11323.2
+Close            11326.8
+Change             -3.25
+Volume             50418
+Name: 8/18/2020 8:30, dtype: object","Time      8/18/2020 8:00
+Open             11332.5
+High               11382
+Low                11322
+Close            11326.8
+Change             -5.75
+Volume             55453
+Name: 8/18/2020 8:00, dtype: object",0.40543235039989367
+36,8/19/2020,11394.0,11392.5,"Time      8/19/2020 8:30
+Time.1    8/19/2020 8:30
+Open             11392.5
+High             11404.5
+Low              11389.8
+Close            11398.2
+Change               5.5
+Volume              2406
+Name: 8/19/2020 8:30, dtype: object","Time      8/19/2020 8:30
+Open             11392.5
+High             11404.5
+Low                11385
+Close            11392.2
+Change             -0.25
+Volume              4225
+Name: 8/19/2020 8:30, dtype: object","Time      8/19/2020 8:30
+Open             11392.5
+High             11404.5
+Low                11369
+Close            11388.8
+Change             -3.75
+Volume              9820
+Name: 8/19/2020 8:30, dtype: object","Time      8/19/2020 8:30
+Open             11392.5
+High               11415
+Low                11367
+Close            11381.5
+Change               -11
+Volume             31261
+Name: 8/19/2020 8:30, dtype: object","Time      8/19/2020 8:30
+Open             11392.5
+High               11415
+Low              11332.5
+Close            11340.2
+Change            -52.25
+Volume             57900
+Name: 8/19/2020 8:30, dtype: object","Time      8/19/2020 8:00
+Open             11380.2
+High               11415
+Low              11332.5
+Close            11340.2
+Change               -40
+Volume             62755
+Name: 8/19/2020 8:00, dtype: object",-0.013164823591363875
+37,8/20/2020,11319.0,11284.5,"Time      8/20/2020 8:30
+Time.1    8/20/2020 8:30
+Open             11284.5
+High               11289
+Low              11275.8
+Close            11283.8
+Change             -0.75
+Volume              2974
+Name: 8/20/2020 8:30, dtype: object","Time      8/20/2020 8:30
+Open             11284.5
+High               11289
+Low                11267
+Close              11284
+Change              -0.5
+Volume              5431
+Name: 8/20/2020 8:30, dtype: object","Time      8/20/2020 8:30
+Open             11284.5
+High             11298.8
+Low                11267
+Close            11289.5
+Change                 5
+Volume             10896
+Name: 8/20/2020 8:30, dtype: object","Time      8/20/2020 8:30
+Open             11284.5
+High               11340
+Low                11267
+Close            11330.5
+Change                46
+Volume             32896
+Name: 8/20/2020 8:30, dtype: object","Time      8/20/2020 8:30
+Open             11284.5
+High               11378
+Low                11267
+Close            11373.2
+Change             88.75
+Volume             56287
+Name: 8/20/2020 8:30, dtype: object","Time      8/20/2020 8:00
+Open               11304
+High               11378
+Low                11267
+Close            11373.2
+Change             69.25
+Volume             63685
+Name: 8/20/2020 8:00, dtype: object",-0.3047972435727538
+38,8/21/2020,11474.0,11481.25,"Time      8/21/2020 8:30
+Time.1    8/21/2020 8:30
+Open             11481.2
+High               11485
+Low              11470.5
+Close            11482.5
+Change              1.25
+Volume              4492
+Name: 8/21/2020 8:30, dtype: object","Time      8/21/2020 8:30
+Open             11481.2
+High             11489.2
+Low              11470.5
+Close            11485.8
+Change               4.5
+Volume              6656
+Name: 8/21/2020 8:30, dtype: object","Time      8/21/2020 8:30
+Open             11481.2
+High             11489.2
+Low              11468.2
+Close            11476.5
+Change             -4.75
+Volume             12351
+Name: 8/21/2020 8:30, dtype: object","Time      8/21/2020 8:30
+Open             11481.2
+High               11490
+Low              11455.5
+Close            11488.8
+Change               7.5
+Volume             35661
+Name: 8/21/2020 8:30, dtype: object","Time      8/21/2020 8:30
+Open             11481.2
+High               11505
+Low              11455.5
+Close            11486.8
+Change               5.5
+Volume             55116
+Name: 8/21/2020 8:30, dtype: object","Time      8/21/2020 8:00
+Open               11464
+High               11505
+Low              11449.5
+Close            11486.8
+Change             22.75
+Volume             73645
+Name: 8/21/2020 8:00, dtype: object",0.06318633432107373
+39,8/24/2020,11554.5,11687.25,"Time      8/24/2020 8:30
+Time.1    8/24/2020 8:30
+Open             11687.2
+High             11697.5
+Low              11685.5
+Close              11695
+Change                 8
+Volume              3050
+Name: 8/24/2020 8:30, dtype: object","Time      8/24/2020 8:30
+Open             11687.2
+High             11703.2
+Low              11685.5
+Close            11691.8
+Change               4.5
+Volume              5876
+Name: 8/24/2020 8:30, dtype: object","Time      8/24/2020 8:30
+Open             11687.2
+High             11703.2
+Low              11681.8
+Close            11690.5
+Change              3.25
+Volume             10863
+Name: 8/24/2020 8:30, dtype: object","Time      8/24/2020 8:30
+Open             11687.2
+High             11722.5
+Low              11681.8
+Close            11713.5
+Change             26.25
+Volume             31771
+Name: 8/24/2020 8:30, dtype: object","Time      8/24/2020 8:30
+Open             11687.2
+High             11722.5
+Low                11614
+Close            11658.5
+Change            -28.75
+Volume             73112
+Name: 8/24/2020 8:30, dtype: object","Time      8/24/2020 8:00
+Open             11686.8
+High             11722.5
+Low                11614
+Close            11658.5
+Change            -28.25
+Volume             79087
+Name: 8/24/2020 8:00, dtype: object",1.1489030247955343
+40,8/25/2020,11626.25,11591.25,"Time      8/25/2020 8:30
+Time.1    8/25/2020 8:30
+Open             11591.2
+High               11611
+Low              11590.5
+Close            11602.2
+Change             11.75
+Volume              4660
+Name: 8/25/2020 8:30, dtype: object","Time      8/25/2020 8:30
+Open             11591.2
+High               11611
+Low              11588.5
+Close              11591
+Change             -0.25
+Volume              9139
+Name: 8/25/2020 8:30, dtype: object","Time      8/25/2020 8:30
+Open             11591.2
+High               11611
+Low              11574.8
+Close            11598.2
+Change                 7
+Volume             15921
+Name: 8/25/2020 8:30, dtype: object","Time      8/25/2020 8:30
+Open             11591.2
+High             11632.2
+Low              11574.8
+Close              11628
+Change             36.75
+Volume             46821
+Name: 8/25/2020 8:30, dtype: object","Time      8/25/2020 8:30
+Open             11591.2
+High             11632.2
+Low              11574.8
+Close              11608
+Change             16.75
+Volume             71402
+Name: 8/25/2020 8:30, dtype: object","Time      8/25/2020 8:00
+Open             11624.2
+High             11632.2
+Low              11574.8
+Close              11608
+Change            -16.25
+Volume             85124
+Name: 8/25/2020 8:00, dtype: object",-0.30104289861305233
